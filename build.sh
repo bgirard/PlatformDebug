@@ -7,4 +7,4 @@ fi
 cd sdk
 . ./bin/activate
 cd ..
-cfx xpi --update-link https://github.com/bgirard/PlatformDebug/raw/master/PlatformDebug.xpi --update-url https://github.com/bgirard/PlatformDebug/raw/master/PlatformDebug.update.rdf
+cfx xpi --update-link http://people.mozilla.org/~bgirard/PlatformDebug/PlatformDebug.xpi --update-url http://people.mozilla.org/~bgirard/PlatformDebug/PlatformDebug.update.rdf
