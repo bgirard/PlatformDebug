@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh bgirard@people.mozilla.org "cd public_html/PlatformDebug && echo Pull \$PWD && git pull && chmod -R 755 ."
+ssh bgirard@people.mozilla.org "cd public_html/PlatformDebug && echo Pull \$PWD && git pull"
