@@ -1,0 +1,21 @@
+ABOUT
+=====
+
+PlatformDebug is an extension to make it easier to trigger debug features.
+
+INSTALLING
+==========
+
+In order to build this add-on, you need a copy of the add-on SDK.  Please do the following:
+
+1. `cd /path/to/PlatformDebug`
+2. `git clone https://github.com/mozilla/addon-sdk sdk && cd sdk`
+2. `git checkout 1.7`
+3. `cd packages`
+   `git clone https://github.com/erikvold/vold-utils-jplib`
+   `cd ..`
+4. `. bin/activate`
+5. `cd ..`
+6. `cp -r menuitems-jplib sdk/packages`
+7. `cfx xpi`
+
