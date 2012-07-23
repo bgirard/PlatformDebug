@@ -1,13 +1,14 @@
 {
-  "name": "platformdebug",
-  "fullName": "Platform Debug",
-  "description": "Create a helper menu for debugging",
-  "author": "Benoit Girard",
-  "dependencies": [
-    "addon-kit",
-    "api-utils",
-    "vold-utils",
-    "menuitems"
-  ],
-  "version": "0.1"
+    "name": "platformdebug", 
+    "author": "Benoit Girard", 
+    "version": "0.1", 
+    "dependencies": [
+        "addon-kit", 
+        "api-utils", 
+        "vold-utils",
+        "menuitems"
+    ], 
+    "fullName": "Platform Debug", 
+    "id": "jid1-18ckFBu1NgIrWQ", 
+    "description": "Create a helper menu for debugging"
 }

@@ -13,6 +13,7 @@ In order to build this add-on, you need a copy of the add-on SDK.  Please do the
 2. `git checkout 1.7`
 3. `cd packages`
    `git clone https://github.com/erikvold/vold-utils-jplib`
+   `git clone https://github.com/bgirard/menuitems-jplib.git`
    `cd ..`
 4. `. bin/activate`
 5. `cd ..`
